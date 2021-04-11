@@ -24,11 +24,11 @@ I like Web/Scripting/Gaming/AI.
    - [Introductory course](https://github.com/ohzecodes/1150-java)
    - [Object oriented programming](https://github.com/ohzecodes/1181)
 
-## Gaming
+### Gaming
    - Space Invaders [CODE HERE](https://github.com/ohzecodes/spaceinvaders)
                   [PLAY HERE](https://ohzecodes.github.io/spaceinvaders/)
 
-##  AI
+###  AI
    - 🧐 [An image classifier using Python and AI](https://github.com/ohzecodes/pythonnotebook)
    - 🤖 Robotics in High School.
 
