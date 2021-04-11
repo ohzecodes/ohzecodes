@@ -13,7 +13,7 @@ I like Web/Scripting/Gaming/AI.
 
 ### Scripts
 #### 1. 🐍Python
-   - [Web Scraping](https://github.com/ohzecodes/webscrapingpy) 
+   - [Web Scraping tool](https://github.com/ohzecodes/webscrapingpy) 
    - Discord Bots
     
 #### 2. 🐧Shell
