@@ -6,10 +6,10 @@ I like Web/Scripting/Gaming/AI.
 ## Here is a list of my projects 
 ### Websites 
 #### 1.  🔭  HTML, JS, SASS, PHP, SQL:  
-    - [Erkenci](#http://erkenci.byethost6.com/htmldocs/index.html)
+    - [Erkenci]:(#http://erkenci.byethost6.com/htmldocs/index.html)
 
 ####  2.  📚 MERN stack: 
-    - [The Great Hotel](#https://thegreathotelapp.herokuapp.com/)
+    - [The Great Hotel]: (#https://thegreathotelapp.herokuapp.com/)
 
 ### Scripts
 #### 1. 🐍Python
