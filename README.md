@@ -1,6 +1,6 @@
 # Hi there 👋 
 ###  Nice to meet you!🤝
-I'm a second year Computer Science Student.
+I'm a computer Science graduate.
 I like Web/Scripting/Gaming/AI. 
 
 ## Here is a list of my projects 
