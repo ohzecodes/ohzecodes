@@ -1,7 +1,16 @@
 # Hi there 👋 
 ###  Nice to meet you!🤝
-I'm a computer Science graduate.
-I like Web/Scripting/Gaming/AI. 
+* I'm a computer Science graduate.
+* I like Web/Scripting/Gaming/AI. 
+
+##  Here Are My Top Languages
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ohzecodes&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ohzecodes&theme=default)
+
+
+
+
+
 
 ## Here is a list of my projects 
 ### Websites 
@@ -33,8 +42,6 @@ I like Web/Scripting/Gaming/AI.
    - 🤖 Robotics in High School.
 
 
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ohzecodes&theme=default)
 
 
 <!--
