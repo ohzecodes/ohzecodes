@@ -18,7 +18,7 @@
   - [Erkenci](http://restaurant.erkenci.me)
 
 ####  2.  📚 MERN stack: 
-  - [The Great Hotel](https://thegreathotelapp.herokuapp.com/)
+  - [The Great Hotel](https://github.com/ohzecodes/theGreatHotelApp)
 
 ### Scripts
 #### 1. 🐍Python
