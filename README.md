@@ -34,8 +34,8 @@
 
 #### 2. Java 
   - [Inventory Management System](https://github.com/ohzecodes/Inventory-Management-Java-FX)
-  - [Appointment Management System](https://github.com/ohzecodes?tab=repositories)
-  - [Android App](https://github.com/ohzecodes?tab=repositories)
+  - [Appointment Management System]()
+  - [Android App]()
 
 
 ### Scripts
