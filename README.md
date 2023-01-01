@@ -14,32 +14,55 @@
 
 ## Here is a list of my projects 
 ### Websites 
-#### 1.  🔭  HTML, JS, SASS, PHP, SQL:  
-  - [Erkenci](http://restaurant.erkenci.me)
-
-####  2.  📚 MERN stack: 
+#### 1.  📚 MERN (MongoDb,Express, REACT, NODEJS) stack: 
   - [The Great Hotel](https://github.com/ohzecodes/theGreatHotelApp)
+  - [SPACETAGRAM](https://github.com/ohzecodes/SPACESTAGRAM)
+  - [WHOISTEACHING](https://github.com/ohzecodes/whoisteaching) 
+
+#### 2. UI/UX PROJECTS
+  - [ISLAND UX DESIGN](https://github.com/ohzecodes/IslandWebsiteUXDesign)
+  - [PET CONSULTING UI](https://github.com/ohzecodes/PetConsultingUIDesign)
+
+#### 3.  🔭  PUG (HTML TEMPLATE), JS, SCSS, PHP, MYSQL:  
+  - [Restaurant with 2fa admin panel](https://github.com/ohzecodes/MockRestaurant)
+
+## Software and Scripts
+###
+
+#### 1. 🐍Python
+  -  [Change my DNS](https://github.com/ohzecodes/changemyDns)
+
+#### 2. Java 
+  - [Inventory Management System](https://github.com/ohzecodes/Inventory-Management-Java-FX)
+  - [Appointment Management System](https://github.com/ohzecodes?tab=repositories)
+  - [Android App](https://github.com/ohzecodes?tab=repositories)
+
 
 ### Scripts
-#### 1. 🐍Python
+#### 1. C++
+   - [Class Roaster](https://github.com/ohzecodes/cpp-class-Roaster)
+   - Algorithms and Data Structures
+   
+   
+#### 2. 🐍Python
    - [Web Scraping tool](https://github.com/ohzecodes/webscrapingpy) 
    - Discord Bots
     
-#### 2. 🐧Shell
+#### 3. 🐧Linux Shell (BASH)
    - [Useful Scripts](https://github.com/ohzecodes/useful-Scripts)
    - [UNIX course](https://github.com/ohzecodes/1280-unix)
-    
-#### 3.  Java  
+
+### 4.  Java  
    - [Introductory course](https://github.com/ohzecodes/1150-java)
    - [Object oriented programming](https://github.com/ohzecodes/1181)
-
-### Gaming
+    
+### 5. Gaming
    - Space Invaders [CODE HERE](https://github.com/ohzecodes/spaceinvaders)
                   [PLAY HERE](https://ohzecodes.github.io/spaceinvaders/)
 
 ###  AI
-   - 🧐 [An image classifier using Python and AI](https://github.com/ohzecodes/pythonnotebook)
-   - 🤖 Robotics in High School.
+   - 🧐 [An image classifier using Pytorch](https://github.com/ohzecodes/pythonnotebook)
+
 
 
 
