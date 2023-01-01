@@ -16,18 +16,18 @@
 ### Websites 
 #### 1.  📚 MERN (MongoDb,Express, REACT, NODEJS) stack: 
   - [The Great Hotel](https://github.com/ohzecodes/theGreatHotelApp)
-  - [SPACETAGRAM](https://github.com/ohzecodes/SPACESTAGRAM)
+  - [Spacetagram](https://github.com/ohzecodes/SPACESTAGRAM)
   - [WHOISTEACHING](https://github.com/ohzecodes/whoisteaching) 
 
 #### 2. UI/UX PROJECTS
   - [ISLAND UX DESIGN](https://github.com/ohzecodes/IslandWebsiteUXDesign)
-  - [PET CONSULTING UI](https://github.com/ohzecodes/PetConsultingUIDesign)
+  - [Pet Consulting firm UI](https://github.com/ohzecodes/PetConsultingUIDesign)
 
 #### 3.  🔭  PUG (HTML TEMPLATE), JS, SCSS, PHP, MYSQL:  
-  - [Restaurant with 2fa admin panel](https://github.com/ohzecodes/MockRestaurant)
+  - [Restaurant Website with 2FA Admin Panel](https://github.com/ohzecodes/MockRestaurant)
 
 ## Software and Scripts
-###
+### Software
 
 #### 1. 🐍Python
   -  [Change my DNS](https://github.com/ohzecodes/changemyDns)
@@ -39,10 +39,10 @@
 
 
 ### Scripts
+
 #### 1. C++
    - [Class Roaster](https://github.com/ohzecodes/cpp-class-Roaster)
    - Algorithms and Data Structures
-   
    
 #### 2. 🐍Python
    - [Web Scraping tool](https://github.com/ohzecodes/webscrapingpy) 
