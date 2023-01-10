@@ -8,10 +8,6 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ohzecodes&theme=default)
 
 
-
-
-
-
 ## Here is a list of my projects 
 ### Websites 
 #### 1.  📚 MERN (MongoDb,Express, REACT, NODEJS) stack: 
@@ -19,7 +15,7 @@
   - [Spacetagram](https://github.com/ohzecodes/SPACESTAGRAM)
   - [WHOISTEACHING](https://github.com/ohzecodes/whoisteaching) 
 
-#### 2. UI/UX PROJECTS
+#### 2. UI/UX PROJECTS(HTML and SCSS)
   - [ISLAND UX DESIGN](https://github.com/ohzecodes/IslandWebsiteUXDesign)
   - [Pet Consulting firm UI](https://github.com/ohzecodes/PetConsultingUIDesign)
 
