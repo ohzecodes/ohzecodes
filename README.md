@@ -16,8 +16,8 @@
   - [WHOISTEACHING](https://github.com/ohzecodes/whoisteaching) 
 
 #### 2. UI/UX PROJECTS(HTML and SCSS)
-  - [ISLAND UX DESIGN](https://github.com/ohzecodes/IslandWebsiteUXDesign)
-  - [Pet Consulting firm UI](https://github.com/ohzecodes/PetConsultingUIDesign)
+  - [ISLAND](https://github.com/ohzecodes/myIslandwebsite)
+  - [Pet Consultant UI](https://github.com/ohzecodes/PetConsultantWebsite)
 
 #### 3.  🔭  PUG (HTML TEMPLATE), JS, SCSS, PHP, MYSQL:  
   - [Restaurant Website with 2FA Admin Panel](https://github.com/ohzecodes/MockRestaurant)
