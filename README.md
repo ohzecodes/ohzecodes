@@ -16,11 +16,14 @@
   - [WHOISTEACHING](https://github.com/ohzecodes/whoisteaching) 
 
 #### 2. UI/UX PROJECTS(HTML and SCSS)
-  - [ISLAND](https://github.com/ohzecodes/myIslandwebsite)
-  - [Pet Consultant UI](https://github.com/ohzecodes/PetConsultantWebsite)
+  - [Island Website](https://github.com/ohzecodes/myIslandwebsite)
+  - [Pet Consultant Website](https://github.com/ohzecodes/PetConsultantWebsite)
 
 #### 3.  🔭  PUG (HTML TEMPLATE), JS, SCSS, PHP, MYSQL:  
   - [Restaurant Website with 2FA Admin Panel](https://github.com/ohzecodes/MockRestaurant)
+
+
+
 
 ## Software and Scripts
 ### Software
@@ -52,14 +55,14 @@
    - [Introductory course](https://github.com/ohzecodes/1150-java)
    - [Object oriented programming](https://github.com/ohzecodes/1181)
     
-### 5. Gaming
-   - Space Invaders [CODE HERE](https://github.com/ohzecodes/spaceinvaders)
-                  [PLAY HERE](https://ohzecodes.github.io/spaceinvaders/)
 
 ###  AI
    - 🧐 [An image classifier using Pytorch](https://github.com/ohzecodes/pythonnotebook)
 
 
+### 5. Gaming
+   - Space Invaders [CODE HERE](https://github.com/ohzecodes/spaceinvaders)
+                  [PLAY HERE](https://ohzecodes.github.io/spaceinvaders/)
 
 
 
