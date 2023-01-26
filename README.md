@@ -20,8 +20,7 @@
   - [Pet Consultant Website](https://github.com/ohzecodes/PetConsultantWebsite)
 
 #### 3.  🔭  PUG (HTML TEMPLATE), JS, SCSS, PHP, MYSQL:  
-  - [Restaurant Website with 2FA Admin Panel](https://github.com/ohzecodes/MockRestaurant)
-
+  - [Restaurant Website with 2FA](https://github.com/ohzecodes/Mock-Restaurant-with-2FA)
 
 
 
@@ -33,8 +32,8 @@
 
 #### 2. Java 
   - [Inventory Management System](https://github.com/ohzecodes/Inventory-Management-Java-FX)
-  - [Appointment Management System]()
-  - [Android App]()
+  - [Appointment Management System](https://github.com/ohzecodes/Appointment-management-JavaFX-MySQL)
+  - [Android App Course Management](https://github.com/ohzecodes/Android-app-java)
 
 
 ### Scripts
