@@ -31,8 +31,8 @@
   -  [Change my DNS](https://github.com/ohzecodes/changemyDns)
 
 #### 2. Java 
-  - [Inventory Management System](https://github.com/ohzecodes/Inventory-Management-Java-FX)
-  - [Appointment Management System](https://github.com/ohzecodes/Appointment-management-JavaFX-MySQL)
+  - [Inventory Management System](https://github.com/ohzecodes/JavaInventory)
+  - [Appointment Management System](https://github.com/ohzecodes/JavaAppointments)
   - [Android App Course Management](https://github.com/ohzecodes/Android-app-java)
 
 
@@ -56,8 +56,8 @@
     
 
 ###  AI
-   - 🧐 [An image classifier using Pytorch](https://github.com/ohzecodes/pythonnotebook)
-
+   - [An image classifier using Pytorch](https://github.com/ohzecodes/pythonnotebook)
+   - [Flower Image Classifier](https://github.com/ohzecodes/Flower-img-classifier)
 
 ### 5. Gaming
    - Space Invaders [CODE HERE](https://github.com/ohzecodes/spaceinvaders)
