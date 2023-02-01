@@ -31,7 +31,7 @@
   -  [Change my DNS](https://github.com/ohzecodes/changemyDns)
 
 #### 2. Java 
-  - [Inventory Management System](https://github.com/ohzecodes/JavaInventory)
+  - [Inventory Management System](https://github.com/ohzecodes/Java-Inventory)
   - [Appointment Management System](https://github.com/ohzecodes/JavaAppointments)
   - [Android App Course Management](https://github.com/ohzecodes/Android-app-java)
 
